@@ -1,0 +1,7 @@
+C:\Users\yoely\source\repos\Control_Empleados\Control_Empleados\bin\Debug\Control_Empleados.exe.config
+C:\Users\yoely\source\repos\Control_Empleados\Control_Empleados\bin\Debug\Control_Empleados.exe
+C:\Users\yoely\source\repos\Control_Empleados\Control_Empleados\bin\Debug\Control_Empleados.pdb
+C:\Users\yoely\source\repos\Control_Empleados\Control_Empleados\obj\Debug\Control_Empleados.csproj.AssemblyReference.cache
+C:\Users\yoely\source\repos\Control_Empleados\Control_Empleados\obj\Debug\Control_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\yoely\source\repos\Control_Empleados\Control_Empleados\obj\Debug\Control_Empleados.exe
+C:\Users\yoely\source\repos\Control_Empleados\Control_Empleados\obj\Debug\Control_Empleados.pdb
